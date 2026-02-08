@@ -1,0 +1,14 @@
+/Users/dasta/SOLIDHomework1/bin/Debug/net10.0/SOLIDHomework1
+/Users/dasta/SOLIDHomework1/bin/Debug/net10.0/SOLIDHomework1.deps.json
+/Users/dasta/SOLIDHomework1/bin/Debug/net10.0/SOLIDHomework1.runtimeconfig.json
+/Users/dasta/SOLIDHomework1/bin/Debug/net10.0/SOLIDHomework1.dll
+/Users/dasta/SOLIDHomework1/bin/Debug/net10.0/SOLIDHomework1.pdb
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.AssemblyInfoInputs.cache
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.AssemblyInfo.cs
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.csproj.CoreCompileInputs.cache
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.dll
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/refint/SOLIDHomework1.dll
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.pdb
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/SOLIDHomework1.genruntimeconfig.cache
+/Users/dasta/SOLIDHomework1/obj/Debug/net10.0/ref/SOLIDHomework1.dll

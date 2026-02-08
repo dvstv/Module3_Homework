@@ -1,0 +1,28 @@
+/Users/dasta/Module3_Homework/bin/Debug/net10.0/Module3_Homework
+/Users/dasta/Module3_Homework/bin/Debug/net10.0/Module3_Homework.deps.json
+/Users/dasta/Module3_Homework/bin/Debug/net10.0/Module3_Homework.runtimeconfig.json
+/Users/dasta/Module3_Homework/bin/Debug/net10.0/Module3_Homework.dll
+/Users/dasta/Module3_Homework/bin/Debug/net10.0/Module3_Homework.pdb
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.AssemblyInfoInputs.cache
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.AssemblyInfo.cs
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.csproj.CoreCompileInputs.cache
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.dll
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/refint/Module3_Homework.dll
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.pdb
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/Module3_Homework.genruntimeconfig.cache
+/Users/dasta/Module3_Homework/obj/Debug/net10.0/ref/Module3_Homework.dll
+/Users/dasta/Module3_Homework (1)/bin/Debug/net10.0/Module3_Homework
+/Users/dasta/Module3_Homework (1)/bin/Debug/net10.0/Module3_Homework.deps.json
+/Users/dasta/Module3_Homework (1)/bin/Debug/net10.0/Module3_Homework.runtimeconfig.json
+/Users/dasta/Module3_Homework (1)/bin/Debug/net10.0/Module3_Homework.dll
+/Users/dasta/Module3_Homework (1)/bin/Debug/net10.0/Module3_Homework.pdb
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.AssemblyInfoInputs.cache
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.AssemblyInfo.cs
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.csproj.CoreCompileInputs.cache
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.dll
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/refint/Module3_Homework.dll
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.pdb
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/Module3_Homework.genruntimeconfig.cache
+/Users/dasta/Module3_Homework (1)/obj/Debug/net10.0/ref/Module3_Homework.dll
